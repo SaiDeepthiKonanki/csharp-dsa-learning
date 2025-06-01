@@ -1,7 +1,7 @@
 # C# Data Structures and Algorithms Learning Repository
 
 Welcome! This repo tracks my journey mastering Data Structures and Algorithms using C#.  
-It contains weekly topics, problem solutions, and resources to prepare for software engineering interviews.
+It contains weekly topics, problem solutions, and resources.
 
 ## Structure
 
@@ -19,15 +19,8 @@ It contains weekly topics, problem solutions, and resources to prepare for softw
 ## Tech Stack
 
 - C# (.NET 6+)
-- Visual Studio Code / Rider
+- Visual Studio Code
 - GitHub for version control and portfolio
 
-## How to Use This Repo
 
-- Follow the weekly roadmap in the folder names
-- Add your problem solutions in the appropriate folders
-- Keep notes and references updated in the Resources folder
 
----
-
-Happy coding! 🚀
