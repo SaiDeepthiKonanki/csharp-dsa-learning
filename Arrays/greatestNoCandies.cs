@@ -21,7 +21,7 @@ Input: candies = [12,1,12], extraCandies = 10
 Output: [true,false,true]
 */
 public class greatestNoCandies {
-    public IList<bool> KidsWithCandies(int[] candies, int extraCandies) {
+    public IList<bool> kidsWithCandies(int[] candies, int extraCandies) {
         int max = candies.Max();
         bool [] result = new bool[candies.Length];  
         for(int i = 0; i < candies.Length; i++) {
